@@ -1,0 +1,18 @@
+MASTER SERVICES AGREEMENT
+
+This Master Services Agreement is made on 1 March 2025 between Acme Ltd ("Provider") and Beta Inc ("Client").
+
+1. PAYMENT
+Client shall pay Provider $5,000 per month, due within 30 days of invoice.
+
+2. TERMINATION
+Either party may terminate this Agreement by giving thirty (30) days written notice to the other party.
+
+3. CONFIDENTIALITY
+Each party shall keep the other party's confidential information confidential for a period of two (2) years after termination.
+
+4. LIABILITY
+Each party's total liability under this Agreement is capped at the fees paid in the preceding twelve (12) months.
+
+5. GOVERNING LAW
+This Agreement is governed by the laws of England and Wales.
